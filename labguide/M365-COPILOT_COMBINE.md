@@ -1,3 +1,5 @@
+# M365 COPILOT
+
 ## Exercise 1: Understanding M365 Copilot Architecture (Read Only)
 
 >**Note:** The following exercise is Read-Only to let you understand the architecture of **M365 Copilot** and to get well-versed with its features and the transformative actions it can take.
